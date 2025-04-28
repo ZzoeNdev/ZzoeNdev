@@ -17,4 +17,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40px"/>
 </div>
 
-<h6> Atualmente focado em PHP </h6>
+<h6> Currently focused in PHP </h6>
