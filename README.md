@@ -1,4 +1,4 @@
-<img src="InfoEnzzoGit.png"/>
+<img src="InfoZzoeNGit.png"/>
 
 <h1>Contact me:</h1>
 
