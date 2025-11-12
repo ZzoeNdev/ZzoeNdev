@@ -24,4 +24,4 @@
 <br>
 <a href="#"> ZzWork (in development) </a>
 <br>
-<a href="previne.vercel.app"> Previne+</a>
+<a href="previne.vercell.app"> Previne+</a>
