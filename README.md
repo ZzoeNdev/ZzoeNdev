@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40px"/>
 </div>
 
-<h6> Currently focused in PHP </h6>
+<h6> Currently focused in Java Script </h6>
 
 <h4>Top Projects:</h4>
 <a href="http://air-ez.free.nf"> Air Website </a>
