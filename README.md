@@ -24,5 +24,5 @@
 <br>
 <h1>Top Projects:</h1>
  <p><a href="http://air-ez.free.nf"> Air Website: </a> Focused on creating a shoe shop site </p>
- <p><a href="https://github.com/ZzoeNdev/Porsche-New-Design"> Porsche New Design Web Site (in development): </a> A responsive landing page built with HTML, CSS and JavaScript focused on UI/UX. </p>
+ <p><a href="https://github.com/ZzoeNdev/Porsche-New-Design"> Porsche New Design Site (in development): </a> A responsive landing page built with HTML, CSS and JavaScript focused on UI/UX. </p>
  <img src="gifHomePorsche.gif" height="140px"/>
