@@ -1,4 +1,4 @@
-<a href="#"><img src="bannerGitHub.png"/></a>
+<a href="#"><img src="bannerGithub.png"/></a>
 
 <h1>Contact me:</h1>
 
