@@ -17,9 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40px"/>
 </div>
 
-<h6> Currently focused in Java Script </h6>
+<h6> Currently focused on Java Script </h6>
 
 <h4>Top Projects:</h4>
- <p><a href="http://air-ez.free.nf"> Air Website: </a> Focused in create a shoot shop website </p>
- <p><a href="https://github.com/ZzoeNdev/Porsche-New-Design"> Porsche New Design Web Site (in development): </a> Focused in create a new design for a porsche website </p>
- <p><a href="http://previne.vercel.app"> Previne+:</a> Website for a school work (Footer) </p>
+ <p><a href="http://air-ez.free.nf"> Air Website: </a> Focused on creating a shoe shop website </p>
+ <p><a href="https://github.com/ZzoeNdev/Porsche-New-Design"> Porsche New Design Web Site (in development): </a> A responsive landing page built with HTML, CSS and JavaScript focused on UI/UX. </p>
+ <p><a href="http://previne.vercel.app"> Previne+:</a> Website for a school project (Footer) </p>
