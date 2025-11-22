@@ -1,4 +1,4 @@
-<img src="InfoEnzzoGit.png"/>
+<a href="#"><img src="bannerGit.png"/></a>
 
 <h1>Contact me:</h1>
 
