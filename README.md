@@ -23,7 +23,7 @@
 
 <br>
 <h1>Top Projects:</h1>
-<p><a href="https://github.com/ZzoeNdev/Porsche-New-Design"> Porsche New Design Site (in development): </a> A responsive landing page built with HTML, CSS and JavaScript focused on UI/UX. </p>
+<p><a href="https://github.com/ZzoeNdev/Porsche-New-Design"> Porsche Redesign: </a> A responsive landing page built with HTML, CSS and JavaScript focused on UI/UX. </p>
 <img src="gifHomePorsche.gif" height="140px"/>
 
 <p><a href="https://github.com/ZzoeNdev/Air-WebSite"> Air Website: </a> A landing page built with HTML, CSS, JavaScript, and PHP for School Work. </p>
