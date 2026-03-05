@@ -1,6 +1,6 @@
 <a href="#"><img src="bannerGithub.png"/></a>
 
-<h1>Contact me:</h1>
+<h1>Entre em contato:</h1>
 
 <div align="left">
   <a href="https://www.instagram.com/eznzzoz/"><img src="https://cdn.brandfetch.io/ido5G85nya/w/800/h/800/theme/light/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40px"/></a>
@@ -10,7 +10,7 @@
 
 <br>
 
-<h1>Languages:</h1>
+<h1>Linguagens:</h1>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px"/>
@@ -19,10 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40px"/>
 </div>
 
-<h6> Currently focused on JavaScript </h6>
+<h6> Atualmente focado em JavaScript </h6>
 
 <br>
-<h1>Top Projects:</h1>
+<h1>Top Projetos:</h1>
 <p><a href="https://github.com/ZzoeNdev/Porsche-New-Design"> Porsche Redesign: </a> A responsive landing page built with HTML, CSS and JavaScript focused on UI/UX. </p>
 <img src="gifHomePorsche.gif" height="140px"/>
 
