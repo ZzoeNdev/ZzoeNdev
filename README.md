@@ -9,7 +9,7 @@
 <h1 align="center"><img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" width="25" align="center">   Um pouco sobre mim</h1>
 <img src="framer.png" width="250px" align="right">
 <br>
-<p align="left">Sou estudante da Etec no curso de Desenvolvimento de Sistemas gosto sempre de aprender e entender mais antes de coloacar em prática.
+<p align="left">Sou estudante da Etec no curso de Desenvolvimento de Sistemas, gosto sempre de aprender e entender mais antes de coloacar em prática.
 Cresci envolvido na tecnologia, o lugar onde quero montar meu futuro.</p>
 
 <br><br><br><br><br><br><br>
