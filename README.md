@@ -1,17 +1,22 @@
 <div align="center">
 <a href="#"><img src="bannerG.png"/></a>
+<a href="enzzo.zre@gmail.com"><img src="https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/enzzo-gabriel-665489397"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<h1>Entre em contato:</h1>
 
-<div align="left">
-  <a href="https://www.instagram.com/eznzzoz/"><img src="https://cdn.brandfetch.io/ido5G85nya/w/800/h/800/theme/light/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40px"/></a>
-  <a href="https://br.linkedin.com/in/enzzo-gabriel-665489397"><img src="https://cdn.brandfetch.io/idJFz6sAsl/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1748592533197" height="40px"/></a>
-  <a href="enzzo.zre@gmail.com"><img src="https://cdn.brandfetch.io/id5o3EIREg/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750127197312" height="40px"/></a>
-</div>
+ <br><br>
 
-<br>
+ <img src="framer.png" width="30%" align="left">
 
-<h1>Linguagens:</h1>
+<h3 align="right"><img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" width="25" align="center">   Um pouco sobre mim</h3>
+<p align="right">Sou estudante da Etec no curso de Desenvolvimento de Sistemas <br> gosto sempre de aprender e entender mais antes de coloacar em prática. <br>
+Cresci envolvido na tecnologia, o lugar onde quero montar meu futuro.</p>
+
+<br><br><br><br><br><br><br>
+
+ <img src="framer.png" width="30%" align="right">
+
+<h3 align="left"><img src="https://api.iconify.design/lucide:settings.svg?color=%23ffffff" width="25" align="center"> Meus Stacks:</h3>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px"/>
@@ -19,14 +24,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40px"/>
+<h6> Atualmente focado em Java </h6>
 </div>
 
-<h6> Atualmente focado em Java </h6>
+<br><br><br><br><br>
 
-<br>
-<h1>Top Projetos:</h1>
-<p><a href="https://github.com/ZzoeNdev/Porsche-New-Design"> Porsche Redesign: </a> A responsive landing page built with HTML, CSS and JavaScript focused on UI/UX. </p>
-<img src="gifHomePorsche.gif" height="140px"/>
+<h3 align="center"><img src="https://api.iconify.design/lucide:circle-help.svg?color=%23ffffff" width="25" align="center"> Onde me encontrar:</h3>
+<div align="center">
+  <a href="https://www.instagram.com/eznzzoz/"><img src="https://cdn.brandfetch.io/ido5G85nya/w/800/h/800/theme/light/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40px"/></a>
+  <a href="https://br.linkedin.com/in/enzzo-gabriel-665489397"><img src="https://cdn.brandfetch.io/idJFz6sAsl/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1748592533197" height="40px"/></a>
+  <a href="enzzo.zre@gmail.com"><img src="https://cdn.brandfetch.io/id5o3EIREg/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750127197312" height="40px"/></a>
+</div>
 
-<p><a href="https://github.com/ZzoeNdev/Air-WebSite"> Air Website: </a> A landing page built with HTML, CSS, JavaScript, and PHP for School Work. </p>
+
 </div>
