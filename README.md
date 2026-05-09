@@ -4,20 +4,16 @@
 <a href="https://www.linkedin.com/in/enzzo-gabriel-665489397"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
- <br><br>
-
- <img src="framer.png" width="30%" align="left">
+<br><br>
+<img src="framer.png" width="30%" align="left">
 
 <h3 align="right"><img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" width="25" align="center">   Um pouco sobre mim</h3>
 <p align="right">Sou estudante da Etec no curso de Desenvolvimento de Sistemas <br> gosto sempre de aprender e entender mais antes de coloacar em prática. <br>
 Cresci envolvido na tecnologia, o lugar onde quero montar meu futuro.</p>
 
-<br><br><br><br><br><br><br>
 
- <img src="framer.png" width="30%" align="right">
-
-<h3 align="left"><img src="https://api.iconify.design/lucide:settings.svg?color=%23ffffff" width="25" align="center"> Meus Stacks:</h3>
-<div align="left">
+<h3 align="right"><img src="https://api.iconify.design/lucide:settings.svg?color=%23ffffff" width="25" align="center"> Meus Stacks:</h3>
+<div align="right">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px"/>
@@ -27,7 +23,7 @@ Cresci envolvido na tecnologia, o lugar onde quero montar meu futuro.</p>
 <h6> Atualmente focado em Java </h6>
 </div>
 
-<br><br><br><br><br>
+
 
 <h3 align="center"><img src="https://api.iconify.design/lucide:circle-help.svg?color=%23ffffff" width="25" align="center"> Onde me encontrar:</h3>
 <div align="center">
