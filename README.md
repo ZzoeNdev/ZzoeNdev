@@ -1,4 +1,5 @@
-<a href="#"><img src="bannerZGithub.png"/></a>
+<div align="center">
+<a href="#"><img src="bannerG.png"/></a>
 
 <h1>Entre em contato:</h1>
 
@@ -28,3 +29,4 @@
 <img src="gifHomePorsche.gif" height="140px"/>
 
 <p><a href="https://github.com/ZzoeNdev/Air-WebSite"> Air Website: </a> A landing page built with HTML, CSS, JavaScript, and PHP for School Work. </p>
+</div>
