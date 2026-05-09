@@ -5,26 +5,27 @@
 
 
 <br><br>
-<img src="framer.png" width="30%" align="left">
 
-<h3 align="right"><img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" width="25" align="center">   Um pouco sobre mim</h3>
-<p align="right">Sou estudante da Etec no curso de Desenvolvimento de Sistemas <br> gosto sempre de aprender e entender mais antes de coloacar em prática. <br>
+<h1 align="center"><img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" width="25" align="center">   Um pouco sobre mim</h1>
+<img src="framer.png" width="30%" align="right">
+<br>
+<p align="left">Sou estudante da Etec no curso de Desenvolvimento de Sistemas gosto sempre de aprender e entender mais antes de coloacar em prática.
 Cresci envolvido na tecnologia, o lugar onde quero montar meu futuro.</p>
 
-
-<h3 align="right"><img src="https://api.iconify.design/lucide:settings.svg?color=%23ffffff" width="25" align="center"> Meus Stacks:</h3>
-<div align="right">
+<br><br><br><br><br><br><br>
+<h1 align="center"><img src="https://api.iconify.design/lucide:settings.svg?color=%23ffffff" width="25" align="center"> Meus Stacks:</h1>
+<h6 align="center"> Atualmente focado em Java </h6>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40px"/>
-<h6> Atualmente focado em Java </h6>
 </div>
 
 
-
+<br>
 <h3 align="center"><img src="https://api.iconify.design/lucide:circle-help.svg?color=%23ffffff" width="25" align="center"> Onde me encontrar:</h3>
 <div align="center">
   <a href="https://www.instagram.com/eznzzoz/"><img src="https://cdn.brandfetch.io/ido5G85nya/w/800/h/800/theme/light/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40px"/></a>
