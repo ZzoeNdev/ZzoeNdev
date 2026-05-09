@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#"><img src="bannerG.png"/></a>
-<a href="enzzo.zre@gmail.com"><img src="https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:enzzo.zre@gmail.com"><img src="https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/enzzo-gabriel-665489397"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
@@ -33,7 +33,7 @@ Cresci envolvido na tecnologia, o lugar onde quero montar meu futuro.</p>
 <div align="center">
   <a href="https://www.instagram.com/eznzzoz/"><img src="https://cdn.brandfetch.io/ido5G85nya/w/800/h/800/theme/light/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40px"/></a>
   <a href="https://br.linkedin.com/in/enzzo-gabriel-665489397"><img src="https://cdn.brandfetch.io/idJFz6sAsl/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1748592533197" height="40px"/></a>
-  <a href="enzzo.zre@gmail.com"><img src="https://cdn.brandfetch.io/id5o3EIREg/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750127197312" height="40px"/></a>
+  <a href="mailto:enzzo.zre@gmail.com"><img src="https://cdn.brandfetch.io/id5o3EIREg/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750127197312" height="40px"/></a>
 </div>
 
 
